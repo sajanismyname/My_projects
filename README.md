@@ -1,5 +1,5 @@
-This repo is for js projects
+# This repo is for js projects
 
-#project1
+# project1
 
 Author-Sajan Limbu
